@@ -1,0 +1,31 @@
+#EXTM3U
+#PLAYLIST:beIN SPORTS
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1,beIN SPORTS 1
+http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 2
+http://primetv.cc.cd/beinfhd2/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 3
+http://primetv.cc.cd/beinfhd3/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 4
+http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 5
+http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 6
+http://primetv.cc.cd/beinfhd6/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 7
+http://primetv.cc.cd/beinfhd7/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 8
+http://primetv.cc.cd/beinfhd8/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1,beIN SPORTS 9
+http://primetv.cc.cd/beinfhd9/tracks-v1a1/mono.tbin.m3u8
+
