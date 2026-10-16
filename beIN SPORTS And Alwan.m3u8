@@ -1,0 +1,64 @@
+#EXTM3U
+#PLAYLIST:beIN SPORTS And Alwan
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 1
+http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 2
+http://primetv.cc.cd/beinfhd2/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 3
+http://primetv.cc.cd/beinfhd3/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 4
+http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 5
+http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 6
+http://primetv.cc.cd/beinfhd6/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 7
+http://primetv.cc.cd/beinfhd7/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 8
+http://primetv.cc.cd/beinfhd8/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",beIN SPORTS 9
+http://primetv.cc.cd/beinfhd9/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 1 HD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237015.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 1 FHD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237014.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 2 HD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237018.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 2 FHD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237017.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 3 HD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237021.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 3 FHD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237020.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 4 HD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237024.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 4 FHD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237023.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 5 HD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237027.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 5 FHD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237026.m3u8
+
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",Alwan sports 6 FHD
+http://sts.mydroon.com/live/9127491274/QDXDbuLzFDYaYbD/237029.m3u8
+
